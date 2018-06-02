@@ -1,7 +1,13 @@
-# Go Client for iyzipay API 
+# iyzipay-go
 
-Go client for iyzipay API has not been officially developed yet. If you need the client, please let us by creating a ticket. According to your requests, we will prioritize and work on the client. 
+You can sign up for an iyzico account at https://iyzico.com
 
-If you already developed the client on your side, we would be more than happy if you could send us via pull request. Your contribution will be appreciated.
+# Requirements
 
-For any requests and comments, please [open an issue](https://github.com/iyzico/iyzipay-go/issues/new). For contributing to the project, [submit a pull request](https://github.com/iyzico/iyzipay-go/pulls).
+Golang 1.8+ or later
+
+# Installation
+
+```bash
+go get github.com/turkishdeveloper/iyzipay-go
+```
